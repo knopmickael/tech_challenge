@@ -1,7 +1,7 @@
 <h1>EMS Ventura - Tech Challenge</h1>
 <h2>Autor: Rickson Mickael Knop</h2>
 <h2>Link: <a href=""></a></h2>
-<h2>No Github: <a href=""></a></h2>
+<h2>No Github: <a href="https://github.com/knopmickael/tech_challenge">https://github.com/knopmickael/tech_challenge</a></h2>
 <hr>
 <p>Este projeto apresenta o valor de determinadas moedas em relação ao Real Brasileiro e também apresenta um gráfico dos últimos 10 dias com o valor de cada moeda.</p>
 <hr>
@@ -31,4 +31,4 @@
 <h4>Observações importantes:</h4>
 <p>Apesar de concluído, o projeto apresenta falhas (relacionadas ao Chart.js e jQuery). Ocasionalmente, ao passar o cursor em cima da linha do gráfico, ele retoma a visão do gráfico da moeda anterior.</p>
 <p>O primeiro <i>push</i> do projeto só ocorreu após a finalização do mesmo (todos commits saíram ao mesmo tempo).</p>
-<p><strong>Não fora utilizado Docker nem fora realizado Controle de Qualidade no desenvolvimento do projeto</strong>(pois nunca trabalhei com estas mecânicas e tive receio de estragar a proposta).</p>
+<p><strong>Não fora utilizado Docker nem fora realizado Controle de Qualidade no desenvolvimento do projeto</strong> (pois nunca trabalhei com estas mecânicas e tive receio de estragar a proposta).</p>
