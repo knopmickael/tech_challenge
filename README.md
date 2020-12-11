@@ -1,7 +1,6 @@
 <h1>EMS Ventura - Tech Challenge</h1>
 <h2>Autor: Rickson Mickael Knop</h2>
 <h2>Link: <a href=""></a></h2>
-<h2>No Github: <a href="https://github.com/knopmickael/tech_challenge">https://github.com/knopmickael/tech_challenge</a></h2>
 <hr>
 <p>Este projeto apresenta o valor de determinadas moedas em relação ao Real Brasileiro e também apresenta um gráfico dos últimos 10 dias com o valor de cada moeda.</p>
 <hr>
@@ -28,6 +27,7 @@
 <p>Com os dados disponíveis, foi possível elaborar o template utilizando laços de repetição nos campos de formulário.</p>
 <p>O template foi criado utilizando conceitos de Flexbox CSS e foi viabilizado através do Laravel Mix.</p>
 <p>Após organizar o template, foi inserido o canvas do Chart.js (modelo de <strong>Linhas</strong>) e foi alimentado através de requisições Ajax para a mesma API em questão. Também foram aplicados estilos e configurações básicas ao canvas.</p>
+<p>O projeto fora hospedado em um servidor compartilhado da HostGator.</p>
 <h4>Observações importantes:</h4>
 <p>Apesar de concluído, o projeto apresenta falhas (relacionadas ao Chart.js e jQuery). Ocasionalmente, ao passar o cursor em cima da linha do gráfico, ele retoma a visão do gráfico da moeda anterior.</p>
 <p>O primeiro <i>push</i> do projeto só ocorreu após a finalização do mesmo (todos commits saíram ao mesmo tempo).</p>
