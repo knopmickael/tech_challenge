@@ -1,8 +1,8 @@
 <h1>EMS Ventura - Tech Challenge</h1>
 <h2>Autor: Rickson Mickael Knop</h2>
 <h2>Link: <a target="_blank" href="https://tech-challenge.knopstudio.com.br/">tech-challenge.knopstudio.com.br</a></h2>
-<hr>
 <p>Este projeto apresenta o valor de determinadas moedas em relação ao Real Brasileiro e também apresenta um gráfico dos últimos 10 dias com o valor de cada moeda.</p>
+<hr>
 <p>Na elaboração do projeto fora utilizado o Framework Laravel em sua versão Master (8.+)</p>
 <p>Foram adicionadas duas bibliotecas externas ao sistema: jQuery e Chart.js.</p>
 <ul>
