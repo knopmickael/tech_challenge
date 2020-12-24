@@ -30,4 +30,4 @@
 <h4>Observações importantes:</h4>
 <p>Apesar de concluído, o projeto apresenta falhas (relacionadas ao Chart.js e jQuery). Ocasionalmente, ao passar o cursor em cima da linha do gráfico, ele retoma a visão do gráfico da moeda anterior.</p>
 <p>O primeiro <i>push</i> do projeto só ocorreu após a finalização do mesmo (todos commits saíram ao mesmo tempo).</p>
-<p><strong>Não fora utilizado Docker nem fora realizado Controle de Qualidade no desenvolvimento do projeto</strong> (pois nunca trabalhei com estas mecânicas e tive receio de estragar a proposta).</p>
+<p><strong>Não fora utilizado Docker nem fora realizado Controle de Qualidade no desenvolvimento do projeto</strong> (pois nunca havia utilizado tecnologias).</p>
